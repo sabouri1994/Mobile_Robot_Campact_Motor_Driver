@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=M2 Pin=U7-3
+Removed Pin From Net: NetName=M1 Pin=U7-6
+Added Pin To Net: NetName=M1 Pin=U7-3
+Added Pin To Net: NetName=M2 Pin=U7-6
+Added Room: Name=Main_Circuit

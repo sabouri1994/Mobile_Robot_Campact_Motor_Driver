@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=1 Pin=D10-A
+Added Pin To Net: NetName=NetD10_2 Pin=D10-C
+Added Room: Name=Main_Circuit

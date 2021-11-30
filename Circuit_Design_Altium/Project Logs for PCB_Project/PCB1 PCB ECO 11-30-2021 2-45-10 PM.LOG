@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Added Component: Designator=S1(SW_PB_THT_4PIN_SPDT_6X6X7)
+Added Component: Designator=S2(SW_PB_THT_4PIN_SPDT_12X12SKQE)
+Added Component: Designator=S3(SW_PB_THT_4PIN_SPDT_12X12SKQE)
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-2
+Added Pin To Net: NetName=1 Pin=S1-3
+Added Pin To Net: NetName=1 Pin=S1-4
+Added Pin To Net: NetName=K1 Pin=S2-1
+Added Pin To Net: NetName=K1 Pin=S2-2
+Added Pin To Net: NetName=1 Pin=S2-3
+Added Pin To Net: NetName=1 Pin=S2-4
+Added Pin To Net: NetName=K2 Pin=S3-1
+Added Pin To Net: NetName=K2 Pin=S3-2
+Added Pin To Net: NetName=1 Pin=S3-3
+Added Pin To Net: NetName=1 Pin=S3-4
+Added Member To Class: ClassName=Main_Circuit Member=Component S1 Switch PB 4Pin
+Added Member To Class: ClassName=Main_Circuit Member=Component S2 SW1
+Added Member To Class: ClassName=Main_Circuit Member=Component S3 SW2
+Added Member To Class: ClassName=Main_Circuit Member=Component X1 12MC
+Added Member To Class: ClassName=Main_Circuit Member=Component X2 16MC
+Added Room: Name=Main_Circuit

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=S2 Old Footprint=SW_PB_THT_4PIN_SPDT_12X12SKQE New Footprint=SW_PB_THT_4PIN_SPDT_6X6X7
+Change Component Footprint: Designator=S3 Old Footprint=SW_PB_THT_4PIN_SPDT_12X12SKQE New Footprint=SW_PB_THT_4PIN_SPDT_6X6X7
+Change Component Comment : Designator=S2 Old Comment=SW1 New Comment=Switch PB 4Pin
+Change Component Comment : Designator=S3 Old Comment=SW2 New Comment=Switch PB 4Pin
+Added Room: Name=Main_Circuit
