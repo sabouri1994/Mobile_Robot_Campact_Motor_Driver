@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Added Component: Designator=S1(SW_PB_THT_4PIN_SPDT_6X6X7)
+Added Component: Designator=S2(SW_PB_THT_4PIN_SPDT_12X12SKQE)
+Added Component: Designator=S3(SW_PB_THT_4PIN_SPDT_12X12SKQE)
+Added Member To Class: ClassName=Main_Circuit Member=Component X2 16MC
+Added Room: Name=Main_Circuit
