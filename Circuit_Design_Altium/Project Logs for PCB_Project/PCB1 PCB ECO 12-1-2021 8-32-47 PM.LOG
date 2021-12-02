@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=A- Pin=D1-1
+Removed Pin From Net: NetName=A+ Pin=D1-2
+Removed Pin From Net: NetName=B- Pin=D3-1
+Removed Pin From Net: NetName=B+ Pin=D3-2
+Added Pin To Net: NetName=2 Pin=D1-1
+Added Pin To Net: NetName=1 Pin=D1-2
+Added Pin To Net: NetName=4 Pin=D3-1
+Added Pin To Net: NetName=3 Pin=D3-2
+Added Member To Class: ClassName=Main_Circuit Member=Component U3 CH340G
+Added Room: Name=Main_Circuit
