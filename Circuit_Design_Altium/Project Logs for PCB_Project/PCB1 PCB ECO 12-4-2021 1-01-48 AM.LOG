@@ -1,0 +1,7 @@
+Added Component: Designator=K?(RJ45-8/8)
+Add component (AddParameter): Name = "Text Field1"; Value = "STEWART CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Text Field2"; Value = "SS-73100-047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Text Field3"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Text Field4"; Value = "380-1053-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main_Circuit Member=Component K? RJ45
+Added Room: Name=Main_Circuit
