@@ -1,0 +1,25 @@
+Added Component: Designator=D5(DIODE-SMC)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D6(DIODE-SMC)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D7(DIODE-SMC)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D8(DIODE-SMC)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M2 Pin=D5-A
+Added Pin To Net: NetName=Vm Pin=D5-K
+Added Pin To Net: NetName=M1 Pin=D6-A
+Added Pin To Net: NetName=Vm Pin=D6-K
+Added Pin To Net: NetName=GND_M Pin=D7-A
+Added Pin To Net: NetName=M2 Pin=D7-K
+Added Pin To Net: NetName=GND_M Pin=D8-A
+Added Pin To Net: NetName=M1 Pin=D8-K
+Added Member To Class: ClassName=Main_Circuit Member=Component D5 SMCJ120CA
+Added Member To Class: ClassName=Main_Circuit Member=Component D6 SMCJ120CA
+Added Member To Class: ClassName=Main_Circuit Member=Component D7 SMCJ120CA
+Added Member To Class: ClassName=Main_Circuit Member=Component D8 SMCJ120CA
+Added Room: Name=Main_Circuit
