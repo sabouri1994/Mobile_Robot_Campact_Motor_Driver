@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Data_IN Old Footprint=TECO-215877-1_V_RJ45 New Footprint=HR911105A
+Change Component Footprint: Designator=POWR_IN Old Footprint=TECO-215877-1_V_RJ45 New Footprint=HR911105A
+Added Room: Name=Main_Circuit
