@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=6 Pin=Encoder-4
+Added Component: Designator=C23(CAP Ceramic 3.5mm)
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP Ceramic 3.5mm)
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=C32(cap 00)
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.3uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=D9(DIODE-SMC)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=ENcoder(HEADER-1X4)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S1011E-36-ND"; VariantName = "[No Variations]"
+Added Component: Designator=POWER(TECO-215877-1_V_RJ45)
+Add component (AddParameter): Name = "3D Model"; Value = "215877-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16310/215877-1-16310656.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "Modular Jacks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Modular Connectors - Jacks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Board Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polybutylene Terephthalate (PBT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Color"; Value = "Does Not Contain LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions/Contacts"; Value = "8p8c (RJ45, Ethernet)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "90° Angle (Right)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "A105009CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "THD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "Cat3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "215877-1 Statement of Compliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A105009TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "A105009CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tab Direction"; Value = "Down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=S4(DIP Switch x8)
+Added Component: Designator=U5(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/74HC04D,653/Nexperia/view-part/1784153/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC04D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO14-14 Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/74HC04D,653/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC04D,653/Nexperia/view-part/1784153/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M2 Pin=C23-1
+Added Pin To Net: NetName=M1 Pin=C23-2
+Added Pin To Net: NetName=1 Pin=C27-1
+Added Pin To Net: NetName=Vm Pin=C27-2
+Added Pin To Net: NetName=NetC31_1 Pin=C32-1
+Added Pin To Net: NetName=1 Pin=C32-2
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=1 Pin=D9-K
+Added Pin To Net: NetName=1 Pin=ENcoder-1
+Added Pin To Net: NetName=1A Pin=ENcoder-2
+Added Pin To Net: NetName=2A Pin=ENcoder-3
+Added Pin To Net: NetName=2 Pin=Encoder-4
+Added Pin To Net: NetName=6 Pin=ENcoder-4
+Added Pin To Net: NetName=NetD9_A Pin=POWER-1
+Added Pin To Net: NetName=NetD9_A Pin=POWER-2
+Added Pin To Net: NetName=NetD9_A Pin=POWER-3
+Added Pin To Net: NetName=NetD9_A Pin=POWER-4
+Added Pin To Net: NetName=Vm Pin=POWER-5
+Added Pin To Net: NetName=Vm Pin=POWER-6
+Added Pin To Net: NetName=Vm Pin=POWER-7
+Added Pin To Net: NetName=Vm Pin=POWER-8
+Added Pin To Net: NetName=En_B_COM Pin=S4-1
+Added Pin To Net: NetName=En_A_COM Pin=S4-2
+Added Pin To Net: NetName=En_B_COM Pin=S4-3
+Added Pin To Net: NetName=En_A_COM Pin=S4-4
+Added Pin To Net: NetName=Dir Pin=S4-5
+Added Pin To Net: NetName=Pwm Pin=S4-6
+Added Pin To Net: NetName=Dir Pin=S4-7
+Added Pin To Net: NetName=Pwm Pin=S4-8
+Added Pin To Net: NetName=Pwm_D Pin=S4-9
+Added Pin To Net: NetName=Dir_D Pin=S4-10
+Added Pin To Net: NetName=Pwm_M Pin=S4-11
+Added Pin To Net: NetName=Dir_M Pin=S4-12
+Added Pin To Net: NetName=En_A Pin=S4-13
+Added Pin To Net: NetName=En_B Pin=S4-14
+Added Pin To Net: NetName=En_A_2 Pin=S4-15
+Added Pin To Net: NetName=En_B_2 Pin=S4-16
+Added Pin To Net: NetName=Pwm Pin=U5-1
+Added Pin To Net: NetName=En Pin=U5-2
+Added Pin To Net: NetName=Dir Pin=U5-3
+Added Pin To Net: NetName=NetU5_4 Pin=U5-4
+Added Pin To Net: NetName=Dir Pin=U5-5
+Added Pin To Net: NetName=Dir2 Pin=U5-6
+Added Pin To Net: NetName=1 Pin=U5-7
+Added Pin To Net: NetName=NetU5_8 Pin=U5-8
+Added Pin To Net: NetName=Dir2 Pin=U5-9
+Added Pin To Net: NetName=6 Pin=U5-14
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component C23 100nF
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component C27 330pF
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component C32 0.3uF
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component D9 SMCJ120CA
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component ENcoder Encoder_Motor
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component POWER 215877-1 RJ45
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component S4 DIP8
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component U5 74HC04D,653
+Added Room: Name=Main_Circuit_V2
