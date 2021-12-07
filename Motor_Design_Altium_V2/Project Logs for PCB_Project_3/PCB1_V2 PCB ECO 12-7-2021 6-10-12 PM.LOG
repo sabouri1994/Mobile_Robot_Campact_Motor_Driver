@@ -1,0 +1,4 @@
+Added Component: Designator=U3(Ardu_Uno)
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component ENcoder Encoder_Motor
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component U3 ARDUINO UNO
+Added Room: Name=Main_Circuit_V2

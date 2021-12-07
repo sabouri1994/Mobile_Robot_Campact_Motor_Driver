@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=DATA_IN Old Footprint=rj45-8 New Footprint=rj45
+Change Component Footprint: Designator=POWER Old Footprint=TECO-215877-1_V_RJ45 New Footprint=rj45
+Added Component: Designator=U3(Ardu_Uno)
+Added Pin To Net: NetName=NetEncoder_AB_3 Pin=Encoder_AB-3
+Added Pin To Net: NetName=NetEncoder_AB_3 Pin=R10-1
+Added Net: Name=NetEncoder_AB_3
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component ENcoder Encoder_Motor
+Added Member To Class: ClassName=Main_Circuit_V2 Member=Component U3 ARDUINO UNO
