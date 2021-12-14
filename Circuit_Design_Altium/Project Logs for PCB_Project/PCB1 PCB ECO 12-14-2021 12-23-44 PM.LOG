@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=6 Pin=R23-2
+Removed Pin From Net: NetName=6 Pin=R24-2
+Change Component Footprint: Designator=U2 Old Footprint=SOIC127P600X175-14N New Footprint=SOIC127P780X200-14N
+Change Component Footprint: Designator=Data_IN Old Footprint=TECO-215877-1_V_RJ45 New Footprint=HR911105A
+Added Pin To Net: NetName=1 Pin=R23-2
+Added Pin To Net: NetName=1 Pin=R24-2
+Added Pin To Net: NetName=En2 Pin=U5-2
+Added Pin To Net: NetName=En2 Pin=U5-11
+Added Net: Name=En2
+Added Pin To Net: NetName=NetU5_10 Pin=U5-10
+Added Pin To Net: NetName=NetU5_10 Pin=U7-1
+Added Pin To Net: NetName=NetU5_10 Pin=U7-9
+Added Net: Name=NetU5_10
+Added Room: Name=Main_Circuit
