@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=K2 Pin=K1-1
+Removed Pin From Net: NetName=1 Pin=K1-3
+Removed Pin From Net: NetName=K1 Pin=K2-1
+Removed Pin From Net: NetName=1 Pin=K2-3
+Removed Pin From Net: NetName=RST Pin=RST-1
+Removed Pin From Net: NetName=RST Pin=RST-2
+Removed Pin From Net: NetName=1 Pin=RST-3
+Change Component Footprint: Designator=POWR_IN Old Footprint=TECO-215877-1_V_RJ45 New Footprint=HR911105A
+Change Component Designator: OldDesignator=5V NewDesignator=LED5
+Change Component Designator: OldDesignator=Data_IN NewDesignator=J3
+Change Component Designator: OldDesignator=DIR NewDesignator=LED4
+Change Component Designator: OldDesignator=EN NewDesignator=K1
+Change Component Designator: OldDesignator=Encoder NewDesignator=P1
+Change Component Designator: OldDesignator=Encoder NewDesignator=P2
+Change Component Designator: OldDesignator=ISCP NewDesignator=P5
+Change Component Designator: OldDesignator=J_1 NewDesignator=P4
+Change Component Designator: OldDesignator=K1 NewDesignator=S3
+Change Component Designator: OldDesignator=K2 NewDesignator=S2
+Change Component Designator: OldDesignator=MOTOR NewDesignator=J2
+Change Component Designator: OldDesignator=P/D NewDesignator=P6
+Change Component Designator: OldDesignator=POWER NewDesignator=J5
+Change Component Designator: OldDesignator=POWR_IN NewDesignator=J4
+Change Component Designator: OldDesignator=PWM NewDesignator=LED3
+Change Component Designator: OldDesignator=PWR NewDesignator=LED6
+Change Component Designator: OldDesignator=RST NewDesignator=S1
+Change Component Designator: OldDesignator=RX NewDesignator=LED2
+Change Component Designator: OldDesignator=TX NewDesignator=LED1
+Change Component Designator: OldDesignator=USB NewDesignator=J1
+Added Component: Designator=LED?(LED-0805-K)
+Add component (AddParameter): Name = "Color"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "LITE-ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LTST-C171GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "GaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "6 mcd; 569 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1423-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "L"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=6 Pin=R?-1
+Added Pin To Net: NetName=1 Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-3
+Added Pin To Net: NetName=RST Pin=S1-4
+Added Pin To Net: NetName=1 Pin=S2-1
+Added Pin To Net: NetName=K1 Pin=S2-3
+Added Pin To Net: NetName=1 Pin=S3-1
+Added Pin To Net: NetName=K2 Pin=S3-3
+Added Pin To Net: NetName=NetLED?_A Pin=LED?-A
+Added Pin To Net: NetName=NetLED?_A Pin=R?-2
+Added Net: Name=NetLED?_A
+Added Pin To Net: NetName=NetLED?_K Pin=LED?-K
+Added Pin To Net: NetName=NetLED?_K Pin=P5-3
+Added Pin To Net: NetName=NetLED?_K Pin=U4-17
+Added Net: Name=NetLED?_K
+Added Member To Class: ClassName=Main_Circuit Member=Component J1 USB-B
+Added Member To Class: ClassName=Main_Circuit Member=Component J3 215877-1 RJ45
+Added Member To Class: ClassName=Main_Circuit Member=Component LED2 RX
+Added Member To Class: ClassName=Main_Circuit Member=Component LED5 Red
+Added Member To Class: ClassName=Main_Circuit Member=Component LED? L
+Added Member To Class: ClassName=Main_Circuit Member=Component P2 Encoder
+Added Member To Class: ClassName=Main_Circuit Member=Component R? 1K
+Added Member To Class: ClassName=Main_Circuit Member=Component S3 Switch PB 4Pin
+Added Room: Name=Main_Circuit
