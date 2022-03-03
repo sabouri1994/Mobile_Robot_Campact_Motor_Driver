@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED7
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Added Pin To Net: NetName=1 Pin=S1-4
+Change Net Name : Old Net Name=NetLED?_A New Net Name=NetLED7_A
+Change Net Name : Old Net Name=NetLED?_K New Net Name=NetLED7_K
+Added Member To Class: ClassName=Main_Circuit Member=Component F2 Slow-blow
+Added Member To Class: ClassName=Main_Circuit Member=Component K1 Encoder_Motor
+Added Room: Name=Main_Circuit
