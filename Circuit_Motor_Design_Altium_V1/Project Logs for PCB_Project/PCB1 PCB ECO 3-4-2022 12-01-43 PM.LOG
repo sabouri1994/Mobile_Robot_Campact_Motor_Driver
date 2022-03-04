@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C28 Old Footprint=RADIAL, CAN - THRU 10mm New Footprint=RADIAL - THRU 5mm
+Change Component Designator: OldDesignator=J5 NewDesignator=POWER
+Added Room: Name=Main_Circuit
