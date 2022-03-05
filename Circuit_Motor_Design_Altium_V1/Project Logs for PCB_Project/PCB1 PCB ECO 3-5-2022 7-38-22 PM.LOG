@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=J3 NewDesignator=DATA_IN
+Change Component Designator: OldDesignator=J4 NewDesignator=POWER
+Added Room: Name=Main_Circuit
