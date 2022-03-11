@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=1 Pin=POWER-0
+Change Component Designator: OldDesignator=LED3 NewDesignator=PWM
+Change Component Designator: OldDesignator=LED4 NewDesignator=DIR
+Change Component Designator: OldDesignator=LED7 NewDesignator=L
+Change Net Name : Old Net Name=NetLED3_K New Net Name=NetPWM_K
+Change Net Name : Old Net Name=NetLED4_K New Net Name=NetDIR_K
+Change Net Name : Old Net Name=NetLED7_A New Net Name=NetL_A
+Change Net Name : Old Net Name=NetLED7_K New Net Name=NetL_K
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Room: Name=Main_Circuit

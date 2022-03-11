@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=TX
+Change Component Designator: OldDesignator=LED2 NewDesignator=RX
+Change Net Name : Old Net Name=NetLED1_A New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetLED2_A New Net Name=NetR3_2
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Room: Name=Main_Circuit

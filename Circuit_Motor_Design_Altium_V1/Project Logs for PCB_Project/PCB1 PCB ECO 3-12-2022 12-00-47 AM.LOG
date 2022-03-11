@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=1 Pin=POWER-0
+Change Component Designator: OldDesignator=K1 NewDesignator=Encoder
+Change Component Designator: OldDesignator=P2 NewDesignator=Encoder
+Change Component Designator: OldDesignator=P5 NewDesignator=ISCP
+Change Net Name : Old Net Name=NetL_K New Net Name=NetISCP_3
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetISCP_1
+Change Net Name : Old Net Name=NetP5_4 New Net Name=NetISCP_4
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Room: Name=Main_Circuit
