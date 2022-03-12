@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=SDA Pin=DATA_IN-2
+Removed Pin From Net: NetName=SCL Pin=DATA_IN-3
+Added Component: Designator=J?(HDR2X4-1)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR2X4-1)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S?(DIP Switch x4)
+Added Pin To Net: NetName=1 Pin=J?-1
+Added Pin To Net: NetName=1 Pin=J?-2
+Added Pin To Net: NetName=SCL Pin=J?-2
+Added Pin To Net: NetName=6 Pin=J?-3
+Added Pin To Net: NetName=6 Pin=J?-4
+Added Pin To Net: NetName=SDA Pin=J?-4
+Added Pin To Net: NetName=RX Pin=J?-6
+Added Pin To Net: NetName=TX Pin=J?-8
+Added Pin To Net: NetName=SDA Pin=S?-5
+Added Pin To Net: NetName=SCL Pin=S?-6
+Added Pin To Net: NetName=Data_1 Pin=DATA_IN-3
+Added Pin To Net: NetName=Data_1 Pin=S?-2
+Added Pin To Net: NetName=Data_1 Pin=S?-4
+Added Net: Name=Data_1
+Added Pin To Net: NetName=Data_2 Pin=DATA_IN-2
+Added Pin To Net: NetName=Data_2 Pin=S?-1
+Added Pin To Net: NetName=Data_2 Pin=S?-3
+Added Net: Name=Data_2
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder Encoder motor_AB
+Added Member To Class: ClassName=Main_Circuit Member=Component J? HDR_NRF24L01
+Added Member To Class: ClassName=Main_Circuit Member=Component J? HDR_NRF24L01
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Member To Class: ClassName=Main_Circuit Member=Component S? DS4
+Added Room: Name=Main_Circuit
