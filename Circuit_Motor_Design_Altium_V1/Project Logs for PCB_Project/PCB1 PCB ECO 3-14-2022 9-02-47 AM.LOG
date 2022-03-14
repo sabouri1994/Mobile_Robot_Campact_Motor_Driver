@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=S? NewDesignator=Input data
+Added Pin To Net: NetName=RX Pin=Input data-7
+Added Pin To Net: NetName=TX Pin=Input data-8
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder Encoder motor_AB
+Added Member To Class: ClassName=Main_Circuit Member=Component J? HDR_NRF24L01
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Room: Name=Main_Circuit

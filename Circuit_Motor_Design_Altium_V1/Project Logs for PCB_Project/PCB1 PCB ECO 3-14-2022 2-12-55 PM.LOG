@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Data_2 Pin=Input data-1
+Removed Pin From Net: NetName=Data_1 Pin=Input data-2
+Removed Pin From Net: NetName=Data_2 Pin=Input data-3
+Removed Pin From Net: NetName=Data_1 Pin=Input data-4
+Removed Pin From Net: NetName=SDA Pin=Input data-5
+Removed Pin From Net: NetName=SCL Pin=Input data-6
+Removed Pin From Net: NetName=RX Pin=Input data-7
+Removed Pin From Net: NetName=TX Pin=Input data-8
+Removed Pin From Net: NetName=SCL Pin=J?-2
+Removed Pin From Net: NetName=SDA Pin=J?-4
+Removed Pin From Net: NetName=RX Pin=J?-6
+Removed Pin From Net: NetName=TX Pin=J?-8
+Removed Member From Class: ClassName=Main_Circuit Member=Input data
+Removed Member From Class: ClassName=Main_Circuit Member=J?
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder Encoder motor_AB
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Room: Name=Main_Circuit
