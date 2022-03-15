@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder Encoder motor_AB
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Member To Class: ClassName=Main_Circuit Member=Component R33 0
+Added Member To Class: ClassName=Main_Circuit Member=Component R34 0
+Added Member To Class: ClassName=Main_Circuit Member=Component R35 0

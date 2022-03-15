@@ -1,0 +1,36 @@
+Added Component: Designator=R?(RESC3413X04N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3413X04N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3413X04N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3413X04N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Data_1 Pin=R?-1
+Added Pin To Net: NetName=Data_1 Pin=R?-1
+Added Pin To Net: NetName=Data_2 Pin=R?-1
+Added Pin To Net: NetName=Data_2 Pin=R?-1
+Added Pin To Net: NetName=RX Pin=R?-2
+Added Pin To Net: NetName=SCL Pin=R?-2
+Added Pin To Net: NetName=SDA Pin=R?-2
+Added Pin To Net: NetName=TX Pin=R?-2
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder Encoder motor_AB
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Member To Class: ClassName=Main_Circuit Member=Component R? 0
+Added Member To Class: ClassName=Main_Circuit Member=Component R? 0
+Added Member To Class: ClassName=Main_Circuit Member=Component R? 0
+Added Member To Class: ClassName=Main_Circuit Member=Component R? 0
+Added Room: Name=Main_Circuit

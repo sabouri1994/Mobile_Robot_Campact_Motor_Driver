@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=1 Pin=POWER-0
+Added Component: Designator=R32(RES 0805 (2012X06L))
+Added Component: Designator=R33(RES 0805 (2012X06L))
+Added Component: Designator=R34(RES 0805 (2012X06L))
+Added Component: Designator=R35(RES 0805 (2012X06L))
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder
+Added Member To Class: ClassName=Main_Circuit Member=Component Encoder Encoder motor_AB
+Added Member To Class: ClassName=Main_Circuit Member=Component POWER 215877-1 RJ45
+Added Room: Name=Main_Circuit
