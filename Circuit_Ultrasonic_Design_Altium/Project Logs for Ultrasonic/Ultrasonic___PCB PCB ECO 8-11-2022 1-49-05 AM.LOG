@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TRIG Pin=D1-1
+Removed Pin From Net: NetName=ECHO Pin=D1-2
+Change Component Designator: OldDesignator=78l05 NewDesignator=U1
+Added Pin To Net: NetName=ECHO Pin=D1-1
+Added Pin To Net: NetName=TRIG Pin=D1-2
+Added Room: Name=Ultarsonic_Bourd
