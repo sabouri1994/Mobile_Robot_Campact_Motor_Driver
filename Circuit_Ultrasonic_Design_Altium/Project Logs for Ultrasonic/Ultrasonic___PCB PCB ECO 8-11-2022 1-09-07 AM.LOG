@@ -1,0 +1,17 @@
+Added Component: Designator=D1(psm712)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link to Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link to Picture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part #"; Value = "SM712.TC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SEMTECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp"; Value = "-55 to 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stability Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Temp"; Value = "-55 to 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SM712"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TRIG Pin=D1-1
+Added Pin To Net: NetName=ECHO Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Member To Class: ClassName=Ultarsonic_Bourd Member=Component D1 SM712
