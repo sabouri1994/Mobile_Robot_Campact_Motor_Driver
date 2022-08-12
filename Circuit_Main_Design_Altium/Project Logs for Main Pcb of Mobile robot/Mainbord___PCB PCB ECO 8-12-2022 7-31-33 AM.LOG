@@ -1,0 +1,14 @@
+Added Component: Designator=D4(SC70-66)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Semtech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMF05C.TCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-363 Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMF05C.TCT/Semtech%20Corporation/view-part/1264306/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P Pin=D4-1
+Added Pin To Net: NetName=G Pin=D4-2
+Added Pin To Net: NetName=D Pin=D4-3
+Added Pin To Net: NetName=En_A_out Pin=D4-4
+Added Pin To Net: NetName=En_B_out Pin=D4-5
+Added Member To Class: ClassName=Motor_Data_FL Member=Component D4 SMF05C.TCT

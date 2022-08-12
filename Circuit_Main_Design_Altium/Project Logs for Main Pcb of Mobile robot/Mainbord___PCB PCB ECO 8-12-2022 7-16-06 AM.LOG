@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Vcc Pin=P1_SRF05_Sensor_FL-3
+Removed Pin From Net: NetName=Vcc Pin=P1_SRF05_Sensor_FL-4
+Removed Pin From Net: NetName=G Pin=P1_SRF05_Sensor_L-3
+Removed Pin From Net: NetName=G Pin=P1_SRF05_Sensor_L-4
+Removed Member From Class: ClassName=Mainbord___Schematic Member=D?
+Removed Member From Class: ClassName=Mainbord___Schematic Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=D / P? NewDesignator=D / P1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=DATA_IN? NewDesignator=DATA_IN1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=TRIG_SRF05_Sensor_FL Pin=P1_SRF05_Sensor_FL-3
+Added Pin To Net: NetName=TRIG_SRF05_Sensor_FL Pin=P1_SRF05_Sensor_FL-4
+Added Pin To Net: NetName=TRIG_SRF05_Sensor_L Pin=P1_SRF05_Sensor_L-3
+Added Pin To Net: NetName=TRIG_SRF05_Sensor_L Pin=P1_SRF05_Sensor_L-4
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3_2
+Added Member To Class: ClassName=Motor_Data_FL Member=Component C7 470nF 50V
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component D2 SMCJ120CA
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component U1 L7805

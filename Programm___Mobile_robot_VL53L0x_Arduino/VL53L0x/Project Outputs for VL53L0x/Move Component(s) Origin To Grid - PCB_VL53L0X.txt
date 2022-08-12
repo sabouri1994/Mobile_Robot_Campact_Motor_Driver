@@ -1,0 +1,19 @@
+Move Component(s) Origin to Grid
+Filename     : E:\GitHub\Mobile_Robot_Campact_Motor_Driver\Programm___Mobile_robot_VL53L0x_Arduino\VL53L0x\PCB_VL53L0X.PcbDoc
+Date         : 8/12/2022
+Time         : 9:19:47 AM
+Time Elapsed : 00:00:00
+
+
+    Component U1 (10.541mm,10.033mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-330 (23.494mm,10.033mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component P1-Header 6pin (19.161mm,1.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component LED1-Green (23.241mm,12.573mm) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component K1-IDC10 (18.034mm,19.939mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component F1-Slow-blow (15.24mm,4.699mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component DP1-1N5819 (4.445mm,11.557mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component D1-SM712 (4.633mm,19.545mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-0.33uF (9.271mm,4.572mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-0.33uF (18.415mm,12.7mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C1-100nF (18.542mm,9.652mm) on Top Layer - Component pads are OFF grid. No action taken.
+count : 11
