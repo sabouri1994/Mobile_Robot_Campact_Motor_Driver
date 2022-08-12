@@ -1,0 +1,53 @@
+Added Component: Designator=POWER?(Rj45_DS1127__HR911105A)
+Add component (AddParameter): Name = "3D Model"; Value = "215877-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16310/215877-1-16310656.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. AE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "Modular Jacks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Modular Connectors - Jacks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Board Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polybutylene Terephthalate (PBT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Color"; Value = "Does Not Contain LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions/Contacts"; Value = "8p8c (RJ45, Ethernet)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "90° Angle (Right)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "A105009CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "THD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "Cat3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "215877-1 Statement of Compliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A105009TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "A105009CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tab Direction"; Value = "Down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD?_K Pin=POWER?-1
+Added Pin To Net: NetName=NetD?_K Pin=POWER?-2
+Added Pin To Net: NetName=NetD?_K Pin=POWER?-3
+Added Pin To Net: NetName=NetD?_K Pin=POWER?-4
+Added Pin To Net: NetName=Vm Pin=POWER?-5
+Added Pin To Net: NetName=Vm Pin=POWER?-6
+Added Pin To Net: NetName=Vm Pin=POWER?-7
+Added Pin To Net: NetName=Vm Pin=POWER?-8
+Added Pin To Net: NetName=Vm Pin=POWER?_Motor Power1-1
+Added Pin To Net: NetName=Vm Pin=POWER?_Motor Power1-2
+Added Pin To Net: NetName=Vm Pin=POWER?_Motor Power1-3
+Added Pin To Net: NetName=Vm Pin=POWER?_Motor Power1-4
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C? 330pF
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C? 1000u
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C? 0.1uF
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C? approved sub OK
+Added Member To Class: ClassName=Motor Power1 Member=Component POWER?_Motor Power1 (POWER?) 215877-1 RJ45
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component POWER? 215877-1 RJ45
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component R? Thin Film

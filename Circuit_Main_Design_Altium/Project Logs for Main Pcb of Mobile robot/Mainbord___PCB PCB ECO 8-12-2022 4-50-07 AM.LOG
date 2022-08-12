@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=Vm Pin=POWER?_Motor Power1-1
+Removed Pin From Net: NetName=Vm Pin=POWER?_Motor Power1-2
+Removed Pin From Net: NetName=Vm Pin=POWER?_Motor Power1-3
+Removed Pin From Net: NetName=Vm Pin=POWER?_Motor Power1-4
+Removed Pin From Net: NetName=Vm Pin=POWER?_Motor Power2-1
+Removed Pin From Net: NetName=Vm Pin=POWER?_Motor Power2-2
+Removed Pin From Net: NetName=Vm Pin=POWER?_Motor Power2-3
+Removed Pin From Net: NetName=Vm Pin=POWER?_Motor Power2-4
+Change Component Designator: OldDesignator=? NewDesignator=1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=G? NewDesignator=G1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=POWER? NewDesignator=POWER1
+Change Component Designator: OldDesignator=POWER? NewDesignator=POWER2
+Change Component Designator: OldDesignator=POWER?_Motor Power1 NewDesignator=POWER3_Motor Power
+Change Component Designator: OldDesignator=POWER?_Motor Power2 NewDesignator=POWER3_Motor Power_1
+Change Component Designator: OldDesignator=PWR? NewDesignator=PWR1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Pin To Net: NetName=Vm Pin=POWER3_Motor Power-5
+Added Pin To Net: NetName=Vm Pin=POWER3_Motor Power-6
+Added Pin To Net: NetName=Vm Pin=POWER3_Motor Power-7
+Added Pin To Net: NetName=Vm Pin=POWER3_Motor Power-8
+Added Pin To Net: NetName=Vm Pin=POWER3_Motor Power_1-5
+Added Pin To Net: NetName=Vm Pin=POWER3_Motor Power_1-6
+Added Pin To Net: NetName=Vm Pin=POWER3_Motor Power_1-7
+Added Pin To Net: NetName=Vm Pin=POWER3_Motor Power_1-8
+Change Net Name : Old Net Name=Net?_K New Net Name=Net1_K
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetD?_K New Net Name=NetD1_K
+Change Net Name : Old Net Name=NetPWR?_K New Net Name=NetPWR1_K
+Change Class Name : Old Net Name=Motor Power1 New Net Name=Motor Power
+Change Class Name : Old Net Name=Motor Power2 New Net Name=Motor Power_1
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C2 1000u
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C3 0.1uF
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C4 approved sub OK
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C5 0.3uF
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component POWER2 CONN_PWR_JACK_2.1x5.5mm
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component R1 330
+Change Room Name: Old Name=Motor Power2 New Name=Motor Power_1
+Change Room Scope: Old Scope=InComponentClass('Motor Power2') New Scope=InComponentClass('Motor Power_1')
+Added Room: Name=Motor Power

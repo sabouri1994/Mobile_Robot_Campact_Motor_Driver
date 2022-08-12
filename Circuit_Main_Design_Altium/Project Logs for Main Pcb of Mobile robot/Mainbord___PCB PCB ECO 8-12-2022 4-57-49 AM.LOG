@@ -1,0 +1,4 @@
+Added Component: Designator=U1(TO252-3M)
+Added Pin To Net: NetName=Vm Pin=U1-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-3
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component U1 L7805CD2T-TR

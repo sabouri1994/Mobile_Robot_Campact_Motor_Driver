@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Vm Pin=U1-1
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-3
+Removed Member From Class: ClassName=Mainbord___Schematic Member=U1
+Added Component: Designator=U?(TO252-3M)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-1170-6-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vm Pin=U?-1
+Added Pin To Net: NetName=NetC4_1 Pin=U?-3
+Added Pin To Net: NetName=G Pin=U?-4
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component U? L7805

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=POWER3_Motor Power NewDesignator=POWER3_Motor Power_2
+Change Class Name : Old Net Name=Motor Power New Net Name=Motor Power_2
+Added Room: Name=Motor Power_2
