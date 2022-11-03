@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=PWR1 NewDesignator=LED_Main Power
+Added Component: Designator=C?(CAP SMD 1000UF 16V)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1000uF-16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP SMD 1000UF 16V)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1000uF-16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V5 Pin=C?-1
+Added Pin To Net: NetName=V5 Pin=C?-1
+Added Pin To Net: NetName=G Pin=C?-2
+Added Pin To Net: NetName=G Pin=C?-2
+Change Net Name : Old Net Name=NetD1_K New Net Name=Vm_G
+Change Net Name : Old Net Name=NetPWR1_K New Net Name=NetLED_Main Power_K
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C? 1000uF-16V
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C? 1000uF-16V

@@ -1,0 +1,401 @@
+Change Component Designator: OldDesignator=K1 NewDesignator=K1_VL1
+Change Component Designator: OldDesignator=P1_SRF05_Sensor_BL NewDesignator=P1_SR_BL
+Change Component Designator: OldDesignator=P1_SRF05_Sensor_BR NewDesignator=P1_SR_BR
+Change Component Designator: OldDesignator=P1_SRF05_Sensor_FF NewDesignator=P1_SR_FF
+Change Component Designator: OldDesignator=P1_SRF05_Sensor_FL NewDesignator=P1_SR_FL
+Change Component Designator: OldDesignator=P1_SRF05_Sensor_FR NewDesignator=P1_SR_FR
+Change Component Designator: OldDesignator=P1_SRF05_Sensor_L NewDesignator=P1_SR_L
+Change Component Designator: OldDesignator=P1_SRF05_Sensor_R NewDesignator=P1_SR_R
+Added Component: Designator=1(LED-0805-K)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Lite-On Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LTST-C171EKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "GaAsP on GaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "6 mcd; 621 nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1422-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP Ceramic 3.5mm)
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=C3(cap 00)
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012X135N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.kemet.com/datasheets&C0805C105K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/datasheets&C0805C105K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.samsungsem.com/servlet/FileDownload?type=spec&file=CL21B105KOFNNNE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samsungsem.com/servlet/FileDownload?type=spec&file=CL21B105KOFNNNE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://product.tdk.com/capacitor/mlcc/en/documents/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = "Samsung Electro-Mechanics America, Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 4"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0805KKX7R7BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "C0805C105K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = "CL21B105KOFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 4"; Value = "C2012X7R1C105K125AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "16V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 1"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 2"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 3"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 4"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1365-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "399-1284-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1276-1026-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "445-1358-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µ"; VariantName = "[No Variations]"
+Added Component: Designator=C5(cap 00)
+Add component (AddParameter): Name = "Adding Date"; Value = "1387/12/20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Saeid Jorablo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organazation"; Value = "ControTec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.3uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=F1(RESC3216X70N)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Holly Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "12T-0160L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "160mA; 63VDC; slow-blow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Added Component: Designator=K1_VL2(IDC10-B)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Gray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header, Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AWHW10G-0202-T-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=K1_VL3(IDC10-B)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Gray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header, Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AWHW10G-0202-T-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=K1_VL4(IDC10-B)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Gray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header, Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AWHW10G-0202-T-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=K1_VL5(IDC10-B)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Gray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header, Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AWHW10G-0202-T-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=K1_VL6(IDC10-B)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Gray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header, Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AWHW10G-0202-T-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=K1_VL7(IDC10-B)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Gray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header, Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AWHW10G-0202-T-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=K1_VL8(IDC10-B)
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Gray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header, Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AWHW10G-0202-T-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HRP10H-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V5 Pin=1-A
+Added Pin To Net: NetName=Net1_K Pin=1-K
+Added Pin To Net: NetName=G Pin=C1-1
+Added Pin To Net: NetName=V5_MD_BL Pin=C1-2
+Added Pin To Net: NetName=V5_MD_BL Pin=C3-1
+Added Pin To Net: NetName=G Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=G Pin=C4-2
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=G Pin=C5-2
+Added Pin To Net: NetName=NetC4_1 Pin=F1-1
+Added Pin To Net: NetName=V5 Pin=F1-2
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL2-1
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL2-2
+Added Pin To Net: NetName=G Pin=K1_VL2-9
+Added Pin To Net: NetName=G Pin=K1_VL2-10
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL3-1
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL3-2
+Added Pin To Net: NetName=G Pin=K1_VL3-9
+Added Pin To Net: NetName=G Pin=K1_VL3-10
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL4-1
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL4-2
+Added Pin To Net: NetName=G Pin=K1_VL4-9
+Added Pin To Net: NetName=G Pin=K1_VL4-10
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL5-1
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL5-2
+Added Pin To Net: NetName=G Pin=K1_VL5-9
+Added Pin To Net: NetName=G Pin=K1_VL5-10
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL6-1
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL6-2
+Added Pin To Net: NetName=G Pin=K1_VL6-9
+Added Pin To Net: NetName=G Pin=K1_VL6-10
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL7-1
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL7-2
+Added Pin To Net: NetName=G Pin=K1_VL7-9
+Added Pin To Net: NetName=G Pin=K1_VL7-10
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL8-1
+Added Pin To Net: NetName=V5_MD_BL Pin=K1_VL8-2
+Added Pin To Net: NetName=G Pin=K1_VL8-9
+Added Pin To Net: NetName=G Pin=K1_VL8-10
+Added Pin To Net: NetName=G Pin=R1-1
+Added Pin To Net: NetName=Net1_K Pin=R1-2
+Change Net Name : Old Net Name=ECHO_SRF05_Sensor_BL New Net Name=ECHO_SR_BL
+Change Net Name : Old Net Name=ECHO_SRF05_Sensor_BR New Net Name=ECHO_SR_BR
+Change Net Name : Old Net Name=ECHO_SRF05_Sensor_FF New Net Name=ECHO_SR_FF
+Change Net Name : Old Net Name=ECHO_SRF05_Sensor_FL New Net Name=ECHO_SR_FL
+Change Net Name : Old Net Name=ECHO_SRF05_Sensor_FR New Net Name=ECHO_SR_FR
+Change Net Name : Old Net Name=ECHO_SRF05_Sensor_L New Net Name=ECHO_SR_L
+Change Net Name : Old Net Name=ECHO_SRF05_Sensor_R New Net Name=ECHO_SR_R
+Change Net Name : Old Net Name=G New Net Name=G_SR_BL
+Change Net Name : Old Net Name=SCL New Net Name=SCL_VL1
+Change Net Name : Old Net Name=SDA New Net Name=SDA_VL1
+Change Net Name : Old Net Name=TRIG_SRF05_Sensor_BL New Net Name=TRIG_SR_BL
+Change Net Name : Old Net Name=TRIG_SRF05_Sensor_BR New Net Name=TRIG_SR_BR
+Change Net Name : Old Net Name=TRIG_SRF05_Sensor_FF New Net Name=TRIG_SR_FF
+Change Net Name : Old Net Name=TRIG_SRF05_Sensor_FL New Net Name=TRIG_SR_FL
+Change Net Name : Old Net Name=TRIG_SRF05_Sensor_FR New Net Name=TRIG_SR_FR
+Change Net Name : Old Net Name=TRIG_SRF05_Sensor_L New Net Name=TRIG_SR_L
+Change Net Name : Old Net Name=TRIG_SRF05_Sensor_R New Net Name=TRIG_SR_R
+Change Net Name : Old Net Name=Xshut New Net Name=Xshut_VL1
+Added Pin To Net: NetName=SCL_VL2 Pin=K1_VL2-3
+Added Pin To Net: NetName=SCL_VL2 Pin=K1_VL2-4
+Added Net: Name=SCL_VL2
+Added Pin To Net: NetName=SCL_VL3 Pin=K1_VL3-3
+Added Pin To Net: NetName=SCL_VL3 Pin=K1_VL3-4
+Added Net: Name=SCL_VL3
+Added Pin To Net: NetName=SCL_VL4 Pin=K1_VL4-3
+Added Pin To Net: NetName=SCL_VL4 Pin=K1_VL4-4
+Added Net: Name=SCL_VL4
+Added Pin To Net: NetName=SCL_VL5 Pin=K1_VL5-3
+Added Pin To Net: NetName=SCL_VL5 Pin=K1_VL5-4
+Added Net: Name=SCL_VL5
+Added Pin To Net: NetName=SCL_VL6 Pin=K1_VL6-3
+Added Pin To Net: NetName=SCL_VL6 Pin=K1_VL6-4
+Added Net: Name=SCL_VL6
+Added Pin To Net: NetName=SCL_VL7 Pin=K1_VL7-3
+Added Pin To Net: NetName=SCL_VL7 Pin=K1_VL7-4
+Added Net: Name=SCL_VL7
+Added Pin To Net: NetName=SCL_VL8 Pin=K1_VL8-3
+Added Pin To Net: NetName=SCL_VL8 Pin=K1_VL8-4
+Added Net: Name=SCL_VL8
+Added Pin To Net: NetName=SDA_VL2 Pin=K1_VL2-5
+Added Pin To Net: NetName=SDA_VL2 Pin=K1_VL2-6
+Added Net: Name=SDA_VL2
+Added Pin To Net: NetName=SDA_VL3 Pin=K1_VL3-5
+Added Pin To Net: NetName=SDA_VL3 Pin=K1_VL3-6
+Added Net: Name=SDA_VL3
+Added Pin To Net: NetName=SDA_VL4 Pin=K1_VL4-5
+Added Pin To Net: NetName=SDA_VL4 Pin=K1_VL4-6
+Added Net: Name=SDA_VL4
+Added Pin To Net: NetName=SDA_VL5 Pin=K1_VL5-5
+Added Pin To Net: NetName=SDA_VL5 Pin=K1_VL5-6
+Added Net: Name=SDA_VL5
+Added Pin To Net: NetName=SDA_VL6 Pin=K1_VL6-5
+Added Pin To Net: NetName=SDA_VL6 Pin=K1_VL6-6
+Added Net: Name=SDA_VL6
+Added Pin To Net: NetName=SDA_VL7 Pin=K1_VL7-5
+Added Pin To Net: NetName=SDA_VL7 Pin=K1_VL7-6
+Added Net: Name=SDA_VL7
+Added Pin To Net: NetName=SDA_VL8 Pin=K1_VL8-5
+Added Pin To Net: NetName=SDA_VL8 Pin=K1_VL8-6
+Added Net: Name=SDA_VL8
+Added Pin To Net: NetName=Xshut_VL2 Pin=K1_VL2-7
+Added Pin To Net: NetName=Xshut_VL2 Pin=K1_VL2-8
+Added Net: Name=Xshut_VL2
+Added Pin To Net: NetName=Xshut_VL3 Pin=K1_VL3-7
+Added Pin To Net: NetName=Xshut_VL3 Pin=K1_VL3-8
+Added Net: Name=Xshut_VL3
+Added Pin To Net: NetName=Xshut_VL4 Pin=K1_VL4-7
+Added Pin To Net: NetName=Xshut_VL4 Pin=K1_VL4-8
+Added Net: Name=Xshut_VL4
+Added Pin To Net: NetName=Xshut_VL5 Pin=K1_VL5-7
+Added Pin To Net: NetName=Xshut_VL5 Pin=K1_VL5-8
+Added Net: Name=Xshut_VL5
+Added Pin To Net: NetName=Xshut_VL6 Pin=K1_VL6-7
+Added Pin To Net: NetName=Xshut_VL6 Pin=K1_VL6-8
+Added Net: Name=Xshut_VL6
+Added Pin To Net: NetName=Xshut_VL7 Pin=K1_VL7-7
+Added Pin To Net: NetName=Xshut_VL7 Pin=K1_VL7-8
+Added Net: Name=Xshut_VL7
+Added Pin To Net: NetName=Xshut_VL8 Pin=K1_VL8-7
+Added Pin To Net: NetName=Xshut_VL8 Pin=K1_VL8-8
+Added Net: Name=Xshut_VL8
+Change Class Name : Old Net Name=SRF05_Sensor_BL New Net Name=SR_BL
+Change Class Name : Old Net Name=SRF05_Sensor_BR New Net Name=SR_BR
+Change Class Name : Old Net Name=SRF05_Sensor_FF New Net Name=SR_FF
+Change Class Name : Old Net Name=SRF05_Sensor_FL New Net Name=SR_FL
+Change Class Name : Old Net Name=SRF05_Sensor_FR New Net Name=SR_FR
+Change Class Name : Old Net Name=SRF05_Sensor_L New Net Name=SR_L
+Change Class Name : Old Net Name=SRF05_Sensor_R New Net Name=SR_R
+Added Class: Name=VL2
+Added Class: Name=VL3
+Added Class: Name=VL4
+Added Class: Name=VL5
+Added Class: Name=VL6
+Added Class: Name=VL7
+Added Class: Name=VL8
+Added Class: Name=VL53L0x
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component 1 Red
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C1 330pF
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C3 0.1uF
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C4 approved sub OK
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C5 0.3uF
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component C? 1000uF-16V
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component F1 Slow-blow
+Added Member To Class: ClassName=Mainbord___Schematic Member=Component R1 330
